@@ -4,7 +4,6 @@ public class AccController {
   //no
   //bye
   //bye2
-  //hello Snehaaa
 @AuraEnabled
     public static List<Account> getAccounts(){
         return [SELECT
