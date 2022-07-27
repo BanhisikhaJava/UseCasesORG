@@ -1,6 +1,8 @@
 public class AccController {
     //first git change push
   //yes
+  //no
+  //bye
 @AuraEnabled
     public static List<Account> getAccounts(){
         return [SELECT
