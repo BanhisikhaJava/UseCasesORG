@@ -3,6 +3,7 @@ public class AccController {
   //yes
   //no
   //bye
+  //bye2
 @AuraEnabled
     public static List<Account> getAccounts(){
         return [SELECT
