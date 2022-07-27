@@ -1,5 +1,4 @@
 public class AccordionDemo {
-    //hit
  @AuraEnabled
     public static List<Account> getAccounts(){
     
